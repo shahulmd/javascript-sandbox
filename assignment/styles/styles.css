@@ -1,0 +1,10 @@
+#json-list {
+  width: 100px;
+  list-style-type: none;
+  text-align: center;
+  border: 1px solid #eee;
+  padding: 0;
+}
+#json-list li:nth-child(odd) {
+  background-color: #eee;
+}
